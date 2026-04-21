@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{6f178e4f-bfd9-45b4-8ce0-345b5ee3393d}">
+		<property name="assetPath">
+			<value>Oneshot/Land_Wood/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{398e812e-4f3c-4f05-baf9-7cc6c2ed9082}</destination>
+		</relationship>
+	</object>
+</objects>

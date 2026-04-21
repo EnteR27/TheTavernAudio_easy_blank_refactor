@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{add2d740-f9a8-402d-82e1-62f5a86c890a}">
+		<property name="assetPath">
+			<value>Oneshot/Land_Wood/oneshot_Land_wood_06.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32218750000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{398e812e-4f3c-4f05-baf9-7cc6c2ed9082}</destination>
+		</relationship>
+	</object>
+</objects>

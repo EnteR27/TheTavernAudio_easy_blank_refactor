@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{02de67f5-df53-42f3-a3dc-247faac428f2}">
+		<property name="assetPath">
+			<value>Oneshot/Jump_Wood/oneshot_Jump_wood_04.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.43716666666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{398e812e-4f3c-4f05-baf9-7cc6c2ed9082}</destination>
+		</relationship>
+	</object>
+</objects>
