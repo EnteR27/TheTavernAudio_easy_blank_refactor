@@ -5,7 +5,7 @@
 			<value>amb_fire</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{95418bcd-cdfd-47fa-9f5a-666800264919}</destination>
@@ -53,7 +53,7 @@
 			<destination>{0a8ed9c3-548c-4bcb-9879-f11ed18ed34f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{7b33552f-7951-4c64-b726-2e30496a63d7}</destination>
+			<destination>{3152de92-3d11-4482-b9bb-8fd105755e33}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{5f3ee273-b7fb-4842-ac1f-ce607ecff572}" />
@@ -122,6 +122,7 @@
 	<object class="MixerBusEffectChain" id="{ec0dd863-d15f-4c90-a260-46c62a9a2b66}">
 		<relationship name="effects">
 			<destination>{f430624c-035e-46a6-8289-7057fcf2ee44}</destination>
+			<destination>{2094ed5a-c4b6-4367-86ae-b8db918c0462}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ef2d259c-d7e5-48be-a17f-25d2cdb86e5c}" />
@@ -141,5 +142,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{42e52d95-fe57-4732-8b21-431c0c1ce6e8}" />
 	<object class="MixerBusFader" id="{f430624c-035e-46a6-8289-7057fcf2ee44}" />
+	<object class="SpatialiserEffect" id="{2094ed5a-c4b6-4367-86ae-b8db918c0462}" />
 	<object class="MixerBusFader" id="{d862fb09-e918-43a6-9bbf-d9f26a68cb1f}" />
 </objects>
