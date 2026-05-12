@@ -1,0 +1,1953 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1778607841
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2.64720748710198
+  ZOOM 243.65298267802606 0 0
+  VZOOMEX 6.53240776 617
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\achrzusz\Desktop\Oneshot\Walk_Stairs\oneshot_walk_stairs_06.flac"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    Y2FsZhgAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 2.64720748710198 2.95879169438517
+  SELECTION2 2.64720748710198 2.95879169438517
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {C5452D02-36D7-4DD6-BC5F-1990BC8E8332}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {1B05398A-2CE9-4498-BFA5-D99F3D486002}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {602F7E69-E98C-4653-AF8E-B0254666B630}
+    NAME Forest
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {602F7E69-E98C-4653-AF8E-B0254666B630}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 16.71616780045348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46164364-A7A1-4154-A64D-49CAF3A507D9}
+      IID 18
+      NAME 792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0728E55-E690-48B6-BD16-D492BDD65F52}
+      <SOURCE FLAC
+        FILE "792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac"
+      >
+    >
+    <ITEM
+      POSITION 18.71616780045348
+      SNAPOFFS 0
+      LENGTH 57.28383219954652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E74DC18F-7960-429E-82A4-9148279764DD}
+      IID 18
+      NAME 792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 18.71616780045348
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B5C258B-DF20-4459-81AC-09090A458AE6}
+      <SOURCE FLAC
+        FILE "792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac"
+      >
+    >
+    <ITEM
+      POSITION 75
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C263C83E-FDF1-46F1-B8BE-1C32A471A8BA}
+      IID 18
+      NAME 792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B20CA47C-2D92-41ED-A414-1D672CACE2C9}
+      <SOURCE FLAC
+        FILE "792432__klankbeeld__park-forest-haanwijk-1221-pm-250306_1056.flac"
+      >
+    >
+  >
+  <TRACK {3F91B5AF-14EA-46D2-B845-0886CCDAD9DA}
+    NAME Tavern
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3F91B5AF-14EA-46D2-B845-0886CCDAD9DA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 16.71616780045348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {1E4700C9-3510-45F6-9F7C-2DD5DA587687}
+      IID 11
+      NAME 209354__robinhood76__04622-tavern-ambience-looping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15789473684211
+      PLAYRATE 1.57894736842105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB0856EF-A727-4F0A-B6DC-2BF786D2A002}
+      <SOURCE WAVE
+        FILE "209354__robinhood76__04622-tavern-ambience-looping.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.71616780045348
+      SNAPOFFS 0
+      LENGTH 57.28383219954652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {2CE9C3A8-7A4F-4520-86F4-568C93BEE083}
+      IID 11
+      NAME 209354__robinhood76__04622-tavern-ambience-looping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 29.55184389545283
+      PLAYRATE 1.57894736842105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BFFCE26-0E99-451B-8DDD-A74892286C65}
+      <SOURCE WAVE
+        FILE "209354__robinhood76__04622-tavern-ambience-looping.wav"
+      >
+    >
+    <ITEM
+      POSITION 75
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {EFF33FA4-00B3-4288-92ED-FC72207CE203}
+      IID 11
+      NAME 209354__robinhood76__04622-tavern-ambience-looping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.57894736842105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE2D4BA5-D0FA-45C9-90C7-791594B71F33}
+      <SOURCE WAVE
+        FILE "209354__robinhood76__04622-tavern-ambience-looping.wav"
+      >
+    >
+  >
+  <TRACK {60F7909B-4D01-45E1-B4FB-3E0BF81CEF7C}
+    NAME Fire
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60F7909B-4D01-45E1-B4FB-3E0BF81CEF7C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 16.71616780045348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FB76344B-4292-485D-B40E-CC6A27B6030A}
+      IID 1
+      NAME 215658__juskiddink__fireplace.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A51A5CD-3533-4B74-BBBC-A0E260E6A2EF}
+      <SOURCE WAVE
+        FILE "215658__juskiddink__fireplace.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.71616780045348
+      SNAPOFFS 0
+      LENGTH 56.28383219954652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C715445D-4FB5-4AA1-ACAE-96A9A5A80937}
+      IID 1
+      NAME 215658__juskiddink__fireplace.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 19.71616780045348
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9942F21A-8756-4614-99B1-B76083E4D93A}
+      <SOURCE WAVE
+        FILE "215658__juskiddink__fireplace.wav"
+      >
+    >
+    <ITEM
+      POSITION 74
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23407027-26B4-4B0D-9D8D-B07B783BC2F5}
+      IID 1
+      NAME 215658__juskiddink__fireplace.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C24C3DE9-A3DE-4F53-81FE-3C097EBCBEE6}
+      <SOURCE WAVE
+        FILE "215658__juskiddink__fireplace.wav"
+      >
+    >
+  >
+  <TRACK {C701A99E-85F2-40D8-94DF-7C50E1A0F06A}
+    NAME "ES_My Soul Delights - Bonnie Grace"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C701A99E-85F2-40D8-94DF-7C50E1A0F06A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 17.71616780045348
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D307EEF-114A-4714-BC77-80EE26F765D2}
+      IID 5
+      NAME "ES_My Soul Delights - Bonnie Grace.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41CCC49C-6986-4F23-8908-6377201391A2}
+      <SOURCE WAVE
+        FILE "ES_My Soul Delights - Bonnie Grace.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.71616780045348
+      SNAPOFFS 0
+      LENGTH 194.83591553287985
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C6DC138-983C-4FDC-9BD9-ABC29192B49C}
+      IID 5
+      NAME "ES_My Soul Delights - Bonnie Grace.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.71616780045348
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FE83413-6FE8-4BB2-BCD4-6EE254FEA982}
+      <SOURCE WAVE
+        FILE "ES_My Soul Delights - Bonnie Grace.wav"
+      >
+    >
+  >
+  <TRACK {5B375DC2-FB11-4164-8AD3-9A980C8704A4}
+    NAME Footsteps-Wood
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5B375DC2-FB11-4164-8AD3-9A980C8704A4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.39714870083823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.07548 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E21CC7C-F57A-42A5-B648-E8ABE297E794}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CDF1550-ECEF-49E2-B904-BE097E7C2F74}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 2.64199041484999
+      SNAPOFFS 0
+      LENGTH 0.39283627915368
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.067672 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC2E75AD-0714-4B87-A39F-EB7F40781F1E}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0.48109338755652
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A427D0F-67D6-4744-9CBF-2883A953E1FC}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 3.18847394594635
+      SNAPOFFS 0
+      LENGTH 0.37211174650392
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.052055 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAD9FC8B-8502-4655-8487-9519E413F20C}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 1.36651671113209
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {892AED08-14E7-4609-8201-07E1188CC053}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 3.78962921652602
+      SNAPOFFS 0
+      LENGTH 0.37219572662309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.065069 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6AB3F382-CA7C-4885-96D1-6EDBDBAAE765}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 2.28554080508695
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BEE12A0-409C-42B5-A08E-ACBDB189D245}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 4.37013030879169
+      SNAPOFFS 0
+      LENGTH 0.38512558309914
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.059864 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45E2B61A-9DD2-4D12-A4FE-2741E5C98940}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 2.67201170174001
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83B3D51B-93DB-41D3-A62F-A6C3684EB7CF}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.38215100988096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.059492 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C851CACE-454D-4916-BF49-2511BD9F0B0A}
+      IID 32
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 3.11950431891723
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E25E9E2-38B3-44C4-BB37-7BA2EA345F2D}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+  >
+  <TRACK {31A1C4A0-3D12-4361-86F7-4C511B072FBD}
+    NAME Footsteps-Stone
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {31A1C4A0-3D12-4361-86F7-4C511B072FBD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.08221385523408
+      SNAPOFFS 0
+      LENGTH 0.39822339981352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.04685 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2439386C-B469-4D7F-B5EC-AAD4D6513078}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.08221385523408
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AA43125-378C-463F-B3F1-812EA16397C0}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.67824757129483
+      SNAPOFFS 0
+      LENGTH 0.40863446908969
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.065069 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB8809C5-2227-458D-B59C-FFD56ABF25BC}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.67824757129483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DCB715A-F49F-4270-92AD-4385A47E7B1D}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.24565084684612
+      SNAPOFFS 0
+      LENGTH 0.38000402858022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.04685 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5782F699-96B1-418E-B9B8-525AF2A3FD8D}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.24565084684612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {111E1A99-6041-4D08-9233-81B65B3D8CBB}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.78702644920698
+      SNAPOFFS 0
+      LENGTH 0.41644277104682
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.07548 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F051A3D-00C1-41E0-B2C7-97B4411BC990}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.79483475116411
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4EDC2EA-A54F-4682-9403-B8CC9D8F47B2}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.38566293258678
+      SNAPOFFS 0
+      LENGTH 0.38781233053735
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.057261 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06212515-4885-4F91-8346-D49A8B27704E}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38566293258678
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB6841C1-19C9-45A8-AABB-856D8C1FF7CD}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.99991601988083
+      SNAPOFFS 0
+      LENGTH 0.38260679589926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.041644 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A95E76BF-7B71-48EB-83D9-AA43145BEDEC}
+      IID 40
+      NAME 521590__fission9__hiking-boot-footsteps-on-stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.99991601988083
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81A74B25-6E6C-4DA0-8C8F-F7C2E7DF49A1}
+      <SOURCE WAVE
+        FILE "521590__fission9__hiking-boot-footsteps-on-stone.wav"
+      >
+    >
+  >
+  <TRACK {FB243BB6-A9FC-4FFB-A1F7-BC0DEFCF1165}
+    NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB243BB6-A9FC-4FFB-A1F7-BC0DEFCF1165}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.08793881207914
+      SNAPOFFS 0
+      LENGTH 0.09452141350711
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7B45222-9ECC-4445-8590-F9F9B876BE07}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.44409150573093
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B061F333-E17E-46DA-9920-7838529B91D3}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.42141233912128
+      SNAPOFFS 0
+      LENGTH 0.14462915078799
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE1C172F-DD5F-4916-8350-5D800D18D394}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.6071874095024
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8234E62-91DF-4C9E-A96F-7D2B4D8742E3}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.94788861349846
+      SNAPOFFS 0
+      LENGTH 0.08313329139782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60F99040-AF89-4036-B470-4510D25E9240}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.03334893399847
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8F15184-D9F0-4C05-86F7-03A0EB28C51C}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.47436488787564
+      SNAPOFFS 0
+      LENGTH 0.09862626614387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {631665C6-0D65-415A-884A-8ECA52D664E6}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.25024767226439
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {539E2FE9-E4E6-4B68-8B76-90C315BA2533}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.96574975364646
+      SNAPOFFS 0
+      LENGTH 0.08335281955863
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06AE77A2-81F4-48C3-A451-60DC42133CF2}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.56643985501077
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCDC156A-D273-4D95-8C02-0F6BF2A6D3B5}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.43958891511408
+      SNAPOFFS 0
+      LENGTH 0.10579396328595
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28AFAEEE-53CC-417A-9A5B-2AD1D7E5E596}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.00474366180413
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26E46837-9010-43E8-9D0E-B73203D3D85D}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 17.51061289457966
+      SNAPOFFS 0
+      LENGTH 0.0609116758313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68382331-30E3-4707-869F-A9C020E25A18}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.8112557318536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8693DB55-AB6D-4810-AC87-7A5968C9CD78}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 18.49317233555808
+      SNAPOFFS 0
+      LENGTH 0.05129404280534
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7D3BD1E-2265-4D58-A87F-D9DA6BF13DA8}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.27036383944962
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BBB73EA-580A-4253-A902-8B0E354E6B7C}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.86184241648819
+      SNAPOFFS 0
+      LENGTH 0.29479180932772
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B14399C9-1184-42C1-9CDA-4994A122F779}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.4378496390334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {286F0D4A-5E9F-4BA6-BA69-BF4FB960FD21}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+  >
+  <TRACK {665CAF47-BF65-4493-A469-D07E74F5F5F6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {665CAF47-BF65-4493-A469-D07E74F5F5F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.73712987129702
+      SNAPOFFS 0
+      LENGTH 0.25167749861532
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F6C4E47-155E-4839-9743-AA116C24E8C8}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.48114789050219
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98D82E20-6CBB-4A84-814A-0A731DE8EC2D}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.21096903276465
+      SNAPOFFS 0
+      LENGTH 0.25964918409182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C8C9357-6566-4F40-B56C-E28A181E83F2}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.89872333550023
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2C29392-FD7C-4838-A7B7-C688407BDD88}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.70235389853546
+      SNAPOFFS 0
+      LENGTH 0.31738188985786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A882FA43-6D12-409C-8D04-25AAB36CB7BE}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.62938823499979
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D94E645-8186-43E2-BBC2-CE03FD216303}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.17619306000309
+      SNAPOFFS 0
+      LENGTH 0.34007696545157
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1823055A-A5F3-4EF2-9F45-8BA6556B2DA2}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.60377511768413
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4721171-1CC9-4D1A-96F2-6C598BF7794F}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.72021503868346
+      SNAPOFFS 0
+      LENGTH 0.31898482869553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6260AAB4-C9A8-4DC9-872A-3ECC474047EB}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.34296375655163
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11488727-2789-4DEB-972B-B0BC33ECA363}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.21159990445427
+      SNAPOFFS 0
+      LENGTH 0.32219070637086
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9E86A94-4383-492E-ABBC-B76212EB5C70}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.11260823333479
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1695D695-378E-4492-9E33-C30336144643}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.72200250847072
+      SNAPOFFS 0
+      LENGTH 0.29333780729287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8769B7D6-775D-4CCB-9524-030980FCC53A}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.9271010934856
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9BFCAF0-883E-40DD-96F3-27DCEC8478BF}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.73965335805551
+      SNAPOFFS 0
+      LENGTH 0.32797791674756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94AAA28E-0F3C-4F78-99A8-7FE0A57087E9}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.79712329111894
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06427AC2-0DA3-467E-84CB-461C2533BAF5}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.58184716460844
+      SNAPOFFS 0
+      LENGTH 0.33501421707217
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43301256-0895-4B9C-8518-4030D20A640B}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.40223858945828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0D18299-78A5-490D-B892-E2C5396000E3}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.49422378837411
+      SNAPOFFS 0
+      LENGTH 0.34155499652919
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBE32665-138F-4E54-8CFE-AE0157F05E68}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.21836829253374
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6376291-B8F6-4706-AC5B-E8AD42A92CC3}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.12597428857041
+      SNAPOFFS 0
+      LENGTH 0.23345650324045
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1E43AF0-4CE5-400D-AAEE-7DBD9F41C53B}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.88794960741247
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC6808A9-9DB4-4C81-87A9-72A2A4F327DD}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.05600176192088
+      SNAPOFFS 0
+      LENGTH 0.26762086956835
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DAB9D60-7F45-49C5-8F24-4FBEE83FA588}
+      IID 46
+      NAME "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.30780267683237
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA542738-1050-4847-B1B5-AAA3E5AD0E16}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Barefoot, Wood Hollow Floor, Interior, Jump - Epidemic Sound.mp3" 1
+      >
+    >
+  >
+  <TRACK {15EDB51F-C7A4-4854-BFCE-D28701F4C1D0}
+    NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {15EDB51F-C7A4-4854-BFCE-D28701F4C1D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.5684929712634
+      SNAPOFFS 0
+      LENGTH 0.14214026626023
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {235F746F-9539-48EA-B85F-188C7915963F}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.6157182257915
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FB446E7-0FF6-40F8-8D86-1F3258573B74}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.46382821179095
+      SNAPOFFS 0
+      LENGTH 0.14023637597473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {122A7521-F9F5-43F7-9DD8-0651B65FBDAF}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.58462772897606
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D11457C-5F7E-4A93-BB44-81BAEE32906D}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.3647592975718
+      SNAPOFFS 0
+      LENGTH 0.20424835174535
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69BAF454-C442-4BFA-96E9-8350B5BF883A}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.07095336673534
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4ACCC967-C0BA-4290-AE7E-DCF27A5524B9}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.27688207385924
+      SNAPOFFS 0
+      LENGTH 0.18186497073216
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {808F1ED2-E95B-48B8-B03E-EB4E35B00A48}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.97354075285638
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89516C47-D1C7-4057-A677-555DAC74A10A}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.07429002245408
+      SNAPOFFS 0
+      LENGTH 0.24062134589178
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA3CB948-9261-4BFC-8BD2-CB296634CFBB}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.09488078190975
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F237E80D-B646-496D-82A1-3B5613C2EFA6}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.8409208221558
+      SNAPOFFS 0
+      LENGTH 0.17347120285222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5DBA9A5-60A7-453A-B6C9-C3163A1839F2}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.3667939547484
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AE32FF6-7DB6-42E4-A89A-E2C0B531D2BD}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.35728261962035
+      SNAPOFFS 0
+      LENGTH 2.86507276968815
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7FE2B11-047C-4FFB-B915-165BC61E8982}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.20588059704719
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACFA93F8-1F86-44B1-BA17-9189D4EFCBC1}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 18.89157357513126
+      SNAPOFFS 0
+      LENGTH 3.35470922935166
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1E74273-9643-473A-A7AC-73013F875A77}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.74017155255809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {572DF581-3EFF-4BA8-BA0C-299EE2268B4A}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.48690415037469
+      SNAPOFFS 0
+      LENGTH 0.46165723339702
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73FED93E-943C-4224-8FC3-7286BA9753EA}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.33550212780153
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C24C79BC-E99E-48DD-B7E6-336C55A2340D}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.22835364643657
+      SNAPOFFS 0
+      LENGTH 1.289842330885
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6BFCAF5-83A4-4E1A-A9E2-669F90A829B9}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.0769516238634
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {009B41B3-94C7-4AE3-BA20-F47DBB5DEF1E}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.69166718017378
+      SNAPOFFS 0
+      LENGTH 0.38331539985086
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7A5635F-C67E-45F7-B5A8-13A0501368D6}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.54026515760061
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8897FA0D-DC4A-4BAE-B230-B5874CD1F027}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.31560392591642
+      SNAPOFFS 0
+      LENGTH 5.97175642999009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56013F2A-59C8-49B7-9EAB-0A879A8C85B9}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.16420190334325
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05A80E02-1FCD-4686-BFB9-ADD8F843F8DD}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+  >
+  <TRACK {1286DAAC-407A-433C-B094-BC48E4551740}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1286DAAC-407A-433C-B094-BC48E4551740}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.19169506966146
+      SNAPOFFS 0
+      LENGTH 0.17721383845431
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7ABEE804-D2E8-47A1-B064-C7577F159553}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22858275044599
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DFCF1F5-3221-4EAB-AF49-3463D7D1DB2A}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.077764261933
+      SNAPOFFS 0
+      LENGTH 0.21413338813229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFC10EA3-0A28-4D9D-A43A-A8E3AA3298CB}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.22408441054086
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5A63AE6-54D3-4482-98D1-0C085DE3DF89}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.93273759078146
+      SNAPOFFS 0
+      LENGTH 0.21782534310009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1F72ACF-AB9F-44D2-A664-A46442E5DAD0}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.81266463924061
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B117F9B7-8AAF-4178-AF6B-63743A8BA87B}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.81967906342906
+      SNAPOFFS 0
+      LENGTH 0.19865250649205
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BC4B2C1-CC62-41DB-B27B-EA4D01A40DB7}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.00722809055514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92BD3EAA-4519-4893-9ECE-421AD3C0C674}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.59750155363737
+      SNAPOFFS 0
+      LENGTH 0.19305666123875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71EA7516-B81F-4B1A-A3F0-8556696F672C}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.61095243367852
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0423DAB0-C76F-447F-BCB8-EC748DFDF5E0}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.39770742485886
+      SNAPOFFS 0
+      LENGTH 0.22663173275854
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8EFF5F3F-014D-4A85-A7F8-0FBADE4064AA}
+      IID 84
+      NAME "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.51353981979955
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAFCC94E-20C2-4CE4-B20C-7777C8543F7D}
+      <SOURCE MP3
+        FILE "ES_Footsteps, Human, Boots, Concrete, Jump, Land, Close - Epidemic Sound.mp3" 1
+      >
+    >
+  >
+  <TRACK {72B9D8F9-C6C9-4F14-99D3-68A57C4A664E}
+    NAME 416885__whitelinefever__door-1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {72B9D8F9-C6C9-4F14-99D3-68A57C4A664E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.10555062425293
+      SNAPOFFS 0
+      LENGTH 0.55824833501881
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F47EE6EC-DE70-4A8E-A367-A65FA10253F2}
+      IID 102
+      NAME 416885__whitelinefever__door-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE61B1F3-924A-46A1-A5A9-26BFBC050A7C}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\416885__whitelinefever__door-1.wav"
+      >
+    >
+  >
+  <TRACK {8B911C58-65C6-4947-8D05-26CEB876E612}
+    NAME 550410__mattruthsound__shed_door_01
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B911C58-65C6-4947-8D05-26CEB876E612}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.20015520272118
+      SNAPOFFS 0
+      LENGTH 0.52541019766476
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EDF3C691-B4B6-4A00-8FA4-EAF88D9DD2F8}
+      IID 103
+      NAME 550410__mattruthsound__shed_door_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E40F819-7E3E-419D-A20B-FD785D552122}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\550410__mattruthsound__shed_door_01.wav"
+      >
+    >
+  >
+  <TRACK {3DC4CF87-F26C-48BE-8C4D-CE42B0C0E38E}
+    NAME 41582__erdie__steps-on-wooden-stairs02
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3DC4CF87-F26C-48BE-8C4D-CE42B0C0E38E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.27916691886731
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C0F5F62C-A50B-48D0-860D-13D4A3F7F261}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F235333B-197F-486E-B011-97BC073F40AD}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+    <ITEM
+      POSITION 0.43693141713476
+      SNAPOFFS 0
+      LENGTH 0.2914831064644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {54A4EA29-2BEB-4515-804C-1961DF456414}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0.43693141713476
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B89373BB-2F1E-4D3B-8F78-5765A49AC2A8}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+    <ITEM
+      POSITION 0.89087090285598
+      SNAPOFFS 0
+      LENGTH 0.32308005525558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8215EB41-6DB1-4709-BD08-CEABB409B78E}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0.89087090285598
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {428278E6-70AB-487E-A525-95AABE2900A0}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+    <ITEM
+      POSITION 1.32478541251279
+      SNAPOFFS 0
+      LENGTH 0.26035640703685
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B043D3DD-1B77-4ABA-8A93-1466974A2759}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 1.32478541251279
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5318369-D076-4922-98C5-C1FDBFAD22C2}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+    <ITEM
+      POSITION 2.17932895449791
+      SNAPOFFS 0
+      LENGTH 0.35655234859263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E90A09C4-D766-4C95-B991-30D7DC9BE483}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 3.70354374989765
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66ED3EE6-4946-468B-9F89-A1BFAFBE7307}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+    <ITEM
+      POSITION 2.64720748710198
+      SNAPOFFS 0
+      LENGTH 0.31158420728319
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9527AB53-63A0-4779-9310-1B68C4C7D4FC}
+      IID 104
+      NAME 41582__erdie__steps-on-wooden-stairs02.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 4.61039640523959
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6817B3D2-7254-4D4E-A969-E53EA952C3D8}
+      <SOURCE VORBIS
+        FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+  >
+>

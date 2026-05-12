@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639136073276873455
+  lastModified: 639142113186357764
   FileSizes:
   - Name: Desktop
     Value: 1214
@@ -117,10 +117,10 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639136073276858375
+  lastModified: 639142113186335496
   FileSizes:
   - Name: Desktop
-    Value: 5884864
+    Value: 5907872
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -152,7 +152,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -6145033669146760828}
   cacheVersion: 131859
-  cacheTime: 639136073276873455
+  cacheTime: 639142113186357764
   SerializableEventsDict:
   - key: event:/amb_forest
     index: 0
@@ -166,6 +166,10 @@ MonoBehaviour:
     index: 4
   - key: event:/Land
     index: 5
+  - key: event:/Music
+    index: 6
+  - key: snapshot:/New Snapshot
+    index: 7
 --- !u!114 &413786941433444317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -207,14 +211,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
   Path: event:/Music
   Guid:
-    Data1: -385513286
-    Data2: 1114954611
-    Data3: 1799807629
-    Data4: 1846326694
+    Data1: -550605117
+    Data2: 1328913285
+    Data3: -1229060690
+    Data4: -2063948287
   Banks:
   - {fileID: -853050179219831009}
   IsStream: 1
-  Is3D: 0
+  Is3D: 1
   IsOneShot: 1
   Parameters: []
   MinDistance: 1
@@ -351,7 +355,7 @@ MonoBehaviour:
   Banks:
   - {fileID: -853050179219831009}
   IsStream: 1
-  Is3D: 0
+  Is3D: 1
   IsOneShot: 0
   Parameters: []
   MinDistance: 1
@@ -378,7 +382,7 @@ MonoBehaviour:
   Banks:
   - {fileID: -853050179219831009}
   IsStream: 1
-  Is3D: 0
+  Is3D: 1
   IsOneShot: 0
   Parameters: []
   MinDistance: 1

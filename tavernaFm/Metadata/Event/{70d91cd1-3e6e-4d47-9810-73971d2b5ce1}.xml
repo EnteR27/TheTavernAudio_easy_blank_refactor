@@ -5,7 +5,7 @@
 			<value>amb_tavern</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{95418bcd-cdfd-47fa-9f5a-666800264919}</destination>
@@ -75,6 +75,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{36b800ae-454f-4c77-be95-14104ea466f1}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{972b9f32-c2b1-4db6-b253-11902f813f77}</destination>
 		</relationship>
@@ -139,6 +142,7 @@
 	<object class="MixerBusEffectChain" id="{972b9f32-c2b1-4db6-b253-11902f813f77}">
 		<relationship name="effects">
 			<destination>{e9bf5528-49d1-429a-a3cd-728fe36b148a}</destination>
+			<destination>{5bcb87ce-3179-4011-a57e-05ef4e47b1f8}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4fe7d9b5-c0e5-4e47-8aa5-65300ab3fa01}" />
@@ -158,5 +162,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{3bca7fb0-0299-45a7-acdb-cf35aae78b51}" />
 	<object class="MixerBusFader" id="{e9bf5528-49d1-429a-a3cd-728fe36b148a}" />
+	<object class="SpatialiserEffect" id="{5bcb87ce-3179-4011-a57e-05ef4e47b1f8}" />
 	<object class="MixerBusFader" id="{0e50aa75-12aa-4f3c-a651-89904cffb72d}" />
 </objects>
