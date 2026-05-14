@@ -153,8 +153,8 @@ public class Footsteps : MonoBehaviour
                 surfaceParameter = "wood";
                 break;
 
-            case "Bed":
-                surfaceParameter = "Bed";
+            case "Stairs":
+                surfaceParameter = "stairs";
                 break;
         }
 

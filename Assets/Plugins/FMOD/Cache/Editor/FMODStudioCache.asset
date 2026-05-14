@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639142113186357764
+  lastModified: 639143838006647411
   FileSizes:
   - Name: Desktop
     Value: 1214
@@ -117,10 +117,10 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639142113186335496
+  lastModified: 639143838006622327
   FileSizes:
   - Name: Desktop
-    Value: 5907872
+    Value: 5933600
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -152,7 +152,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -6145033669146760828}
   cacheVersion: 131859
-  cacheTime: 639142113186357764
+  cacheTime: 639143838006647411
   SerializableEventsDict:
   - key: event:/amb_forest
     index: 0

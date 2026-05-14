@@ -264,11 +264,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 1893276881
-      Data2: 1296514670
-      Data3: -1754066792
-      Data4: -514053347
-    Path: event:/amb_tavern
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 0
@@ -2221,7 +2221,7 @@ GameObject:
   - component: {fileID: 540904848}
   m_Layer: 6
   m_Name: Wood_stairs_1
-  m_TagString: Wood
+  m_TagString: Stairs
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2453,8 +2453,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerCamera: {fileID: 237163390}
-  walkSpeed: 6
-  runSpeed: 12
+  walkSpeed: 3
+  runSpeed: 6
   jumpPower: 6
   gravity: 20
   lookSpeed: 3
@@ -4246,11 +4246,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -550605117
-      Data2: 1328913285
-      Data3: -1229060690
-      Data4: -2063948287
-    Path: event:/Music
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 0
@@ -5899,7 +5899,7 @@ GameObject:
   - component: {fileID: 1710004320}
   m_Layer: 6
   m_Name: Wood_stairs_2
-  m_TagString: Wood
+  m_TagString: Stairs
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

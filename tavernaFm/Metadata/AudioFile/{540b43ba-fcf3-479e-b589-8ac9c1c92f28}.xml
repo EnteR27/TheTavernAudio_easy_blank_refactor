@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{5bd7656b-64e9-4216-8cc8-781563bf9f64}">
+	<object class="AudioFile" id="{540b43ba-fcf3-479e-b589-8ac9c1c92f28}">
 		<property name="assetPath">
-			<value>Oneshot/Walk_Stairs/oneshot_walk_stairs_01.flac</value>
+			<value>Oneshot/Jump_Stairs/oneshot_jump_stairs_01.flac</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.27916666666666667</value>
+			<value>0.28397916666666667</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{398e812e-4f3c-4f05-baf9-7cc6c2ed9082}</destination>

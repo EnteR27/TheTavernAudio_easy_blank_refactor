@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1778607841
+<REAPER_PROJECT 0.1 "6.81/win64" 1778779870
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 2.64720748710198
-  ZOOM 243.65298267802606 0 0
-  VZOOMEX 6.53240776 617
+  CURSOR 2.92339273225403
+  ZOOM 335.22693998229522 0 0
+  VZOOMEX 5.4464283 439
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\achrzusz\Desktop\Oneshot\Walk_Stairs\oneshot_walk_stairs_06.flac"
+  RENDER_FILE "C:\Users\achrzusz\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Reaper\Oneshot\Jump_Stairs\oneshot_jump_stairs_06.flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 2.64720748710198 2.95879169438517
-  SELECTION2 2.64720748710198 2.95879169438517
+  SELECTION 2.92339273225403 3.2634608664142
+  SELECTION2 2.92339273225403 3.2634608664142
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1800,13 +1800,13 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -1826,7 +1826,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {C0F5F62C-A50B-48D0-860D-13D4A3F7F261}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1848,7 +1848,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {54A4EA29-2BEB-4515-804C-1961DF456414}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1870,7 +1870,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {8215EB41-6DB1-4709-BD08-CEABB409B78E}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1892,7 +1892,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {B043D3DD-1B77-4ABA-8A93-1466974A2759}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1914,7 +1914,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {E90A09C4-D766-4C95-B991-30D7DC9BE483}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1936,7 +1936,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {9527AB53-63A0-4779-9310-1B68C4C7D4FC}
       IID 104
       NAME 41582__erdie__steps-on-wooden-stairs02.ogg
@@ -1947,6 +1947,318 @@
       GUID {6817B3D2-7254-4D4E-A969-E53EA952C3D8}
       <SOURCE VORBIS
         FILE "C:\Users\achrzusz\Downloads\41582__erdie__steps-on-wooden-stairs02.ogg"
+      >
+    >
+  >
+  <TRACK {8B2DBBB9-B1FD-4372-A697-FFF25A04DEA5}
+    NAME 554762__fmaudio__floor-creaking-1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B2DBBB9-B1FD-4372-A697-FFF25A04DEA5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.28398869319936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BEB04BCF-35C2-4F9C-AB20-82C67F036FCA}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28E350B7-0563-4DDE-996B-966BC2B1DBAC}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.53406828870328
+      SNAPOFFS 0
+      LENGTH 0.34756825137832
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9356B894-49DE-469C-9DFD-F0319F24C82F}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.62795507139708
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {889A26EB-5D40-4C32-87E6-B530E1250B40}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.14549266243423
+      SNAPOFFS 0
+      LENGTH 0.26250873514118
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CA33A977-FF53-4A22-A17E-A71E55945A3B}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14.18324752035394
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4F834E1-BAA5-4F29-921C-490BECEAA219}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.65261180986605
+      SNAPOFFS 0
+      LENGTH 0.44745807126337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {444EB2F1-11AE-4ADB-BA78-B8C3D97B7414}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 19.47220192268701
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A6CE9DE-9AC0-4CDF-B38B-804CC069F568}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.3745108315043
+      SNAPOFFS 0
+      LENGTH 0.25952568133275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {301F000D-D40C-4968-A58F-B7D15013BB3C}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24.67464776457581
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {431A378E-6AE3-4128-B963-3C7E0DC08197}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.92339273225403
+      SNAPOFFS 0
+      LENGTH 0.34006813416016
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4530AE15-19E4-4444-8930-48A5CE034170}
+      IID 110
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26.79559902236419
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A964F6D-7901-42E2-A13A-FDAC640AE229}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+  >
+  <TRACK {3A650BF6-07E9-4E3A-8E49-0914BFBA689F}
+    NAME 555297__fmaudio__walking-up-wooden-steps
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A650BF6-07E9-4E3A-8E49-0914BFBA689F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.55709997457523
+      SNAPOFFS 0
+      LENGTH 0.26951593364585
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E3BA152-76C9-4AA9-B85A-AA79B75DBE02}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.55709997457523
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {777C642F-8308-48C4-B392-8A8064FE6A8E}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.09613184186694
+      SNAPOFFS 0
+      LENGTH 0.21982863861617
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8D4E9DB-4046-41D8-8796-8DFFA15286D9}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.09613184186694
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B87461F-23CA-4AB8-AF01-BDF1F4D71610}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.60956722384032
+      SNAPOFFS 0
+      LENGTH 0.28156133850153
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {453C3A28-7D2B-4A04-99D6-13A82D9278D4}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.60956722384032
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {078AC9E8-37D2-41C1-A6F6-207A56DE0D03}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.20197203159804
+      SNAPOFFS 0
+      LENGTH 0.22434566543705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B3C0E84-A517-4B71-8610-B23FBDFDB940}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.66504582431934
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84332A10-C9E3-4329-A7E3-D5A0BD4DA5B1}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.75935282496694
+      SNAPOFFS 0
+      LENGTH 0.22886269225793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51EABB17-82DD-45CE-9D89-D1F157BBC51C}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.76720036861411
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {020C0011-FA98-41D5-8BE7-DF82A2A4D88A}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.36123930906111
+      SNAPOFFS 0
+      LENGTH 0.20477188254657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A7947E5-DF2C-405D-A4F4-E7E0E87FDA1C}
+      IID 111
+      NAME 555297__fmaudio__walking-up-wooden-steps.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.30623223590582
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7CB8B9A-E2A8-4FD2-BF72-5A1DC719F162}
+      <SOURCE WAVE
+        FILE "C:\Users\achrzusz\Downloads\555297__fmaudio__walking-up-wooden-steps.wav"
       >
     >
   >
