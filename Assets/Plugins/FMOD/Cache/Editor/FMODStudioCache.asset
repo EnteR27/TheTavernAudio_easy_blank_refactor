@@ -1,5 +1,89 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9215503916134613736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/doors
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/doors
+  Guid:
+    Data1: 1034972653
+    Data2: 1248237410
+    Data3: -65093745
+    Data4: 1776205241
+  Banks:
+  - {fileID: -853050179219831009}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2359668278803871438}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1641
+--- !u!114 &-6719438139007153081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Run
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Run
+  Guid:
+    Data1: -2027049252
+    Data2: 1276122725
+    Data3: 1570140575
+    Data4: -596184255
+  Banks:
+  - {fileID: -853050179219831009}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -6422527499931053527}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 352
+--- !u!114 &-6422527499931053527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Run/footsteps_parameter
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: footsteps_parameter
+  StudioPath: 
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 1125329568
+    data2: 213816235
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - wood
+  - stone
+  - stairs
+  - lamp
+  Exists: 1
 --- !u!114 &-6145033669146760828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15,10 +99,63 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639143838006647411
+  lastModified: 639154219604066423
   FileSizes:
   - Name: Desktop
-    Value: 1214
+    Value: 1560
+  Exists: 1
+--- !u!114 &-4907848518895514385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mouse
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/mouse
+  Guid:
+    Data1: 533672831
+    Data2: 1119608052
+    Data3: 412786052
+    Data4: -666425622
+  Banks:
+  - {fileID: -853050179219831009}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1684
+--- !u!114 &-2359668278803871438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/doors/Doors
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: Doors
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4146661200
+    data2: 1431677568
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open
+  - Close
   Exists: 1
 --- !u!114 &-2186990873329419236
 MonoBehaviour:
@@ -47,7 +184,7 @@ MonoBehaviour:
   - {fileID: -995518438949861988}
   MinDistance: 1
   MaxDistance: 20
-  Length: 322
+  Length: 457
 --- !u!114 &-1948269270772207850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63,7 +200,7 @@ MonoBehaviour:
   Name: footsteps_parameter
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 1125329568
@@ -74,6 +211,7 @@ MonoBehaviour:
   - wood
   - stone
   - stairs
+  - lamp
   Exists: 1
 --- !u!114 &-995518438949861988
 MonoBehaviour:
@@ -90,7 +228,7 @@ MonoBehaviour:
   Name: footsteps_parameter
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 1125329568
@@ -101,6 +239,7 @@ MonoBehaviour:
   - wood
   - stone
   - stairs
+  - lamp
   Exists: 1
 --- !u!114 &-853050179219831009
 MonoBehaviour:
@@ -117,10 +256,10 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639143838006622327
+  lastModified: 639154219604046419
   FileSizes:
   - Name: Desktop
-    Value: 5933600
+    Value: 6196992
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -146,13 +285,16 @@ MonoBehaviour:
   - {fileID: -2186990873329419236}
   - {fileID: 1257471959475432727}
   - {fileID: 3992774999910342430}
+  - {fileID: -4907848518895514385}
+  - {fileID: -9215503916134613736}
+  - {fileID: -6719438139007153081}
   EditorParameters: []
   MasterBanks:
   - {fileID: -853050179219831009}
   StringsBanks:
   - {fileID: -6145033669146760828}
   cacheVersion: 131859
-  cacheTime: 639143838006647411
+  cacheTime: 639154219604066423
   SerializableEventsDict:
   - key: event:/amb_forest
     index: 0
@@ -166,10 +308,16 @@ MonoBehaviour:
     index: 4
   - key: event:/Land
     index: 5
-  - key: event:/Music
+  - key: event:/music
     index: 6
   - key: snapshot:/New Snapshot
     index: 7
+  - key: event:/mouse
+    index: 8
+  - key: event:/doors
+    index: 9
+  - key: event:/Run
+    index: 10
 --- !u!114 &413786941433444317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -185,7 +333,7 @@ MonoBehaviour:
   Name: footsteps_parameter
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 1125329568
@@ -196,6 +344,7 @@ MonoBehaviour:
   - wood
   - stone
   - stairs
+  - lamp
   Exists: 1
 --- !u!114 &1257471959475432727
 MonoBehaviour:
@@ -207,9 +356,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Music
+  m_Name: event:/music
   m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/Music
+  Path: event:/music
   Guid:
     Data1: -550605117
     Data2: 1328913285
@@ -306,7 +455,7 @@ MonoBehaviour:
   - {fileID: -1948269270772207850}
   MinDistance: 1
   MaxDistance: 20
-  Length: 621
+  Length: 697
 --- !u!114 &3992774999910342430
 MonoBehaviour:
   m_ObjectHideFlags: 0
