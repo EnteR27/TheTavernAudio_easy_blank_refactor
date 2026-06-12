@@ -99,7 +99,7 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639154219604066423
+  lastModified: 639168528246484299
   FileSizes:
   - Name: Desktop
     Value: 1560
@@ -126,7 +126,7 @@ MonoBehaviour:
   - {fileID: -853050179219831009}
   IsStream: 0
   Is3D: 1
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
@@ -256,10 +256,10 @@ MonoBehaviour:
   Path: tavernaFm/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639154219604046419
+  lastModified: 639168528246469262
   FileSizes:
   - Name: Desktop
-    Value: 6196992
+    Value: 6197664
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -294,7 +294,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -6145033669146760828}
   cacheVersion: 131859
-  cacheTime: 639154219604066423
+  cacheTime: 639168528246484299
   SerializableEventsDict:
   - key: event:/amb_forest
     index: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
   - {fileID: -853050179219831009}
   IsStream: 1
   Is3D: 1
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
@@ -423,7 +423,7 @@ MonoBehaviour:
   - {fileID: -853050179219831009}
   IsStream: 1
   Is3D: 1
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
